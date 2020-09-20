@@ -16,6 +16,7 @@ set number
 set relativenumber
 set spell spelllang=en_us
 set expandtab shiftwidth=4 softtabstop=4
+set mouse=a
 
 function! Cpp()
     " set UTF-8 encoding
